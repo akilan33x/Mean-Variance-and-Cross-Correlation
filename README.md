@@ -69,17 +69,17 @@ plot2d3('gnn',r);
 
 
 ## Tabulation
-![WhatsApp Image 2025-12-04 at 12 56 24_da19abb8](https://github.com/user-attachments/assets/46fd0496-778f-409c-bfa4-0069d2a1b298)
-![WhatsApp Image 2025-12-04 at 13 39 05_c5335daf](https://github.com/user-attachments/assets/fcad254f-9d39-4331-bcbb-f5372481d51b)
-![WhatsApp Image 2025-12-04 at 13 39 15_9b655ff2](https://github.com/user-attachments/assets/4a175fb6-9444-4345-889b-30fac1f94100)
-![WhatsApp Image 2025-12-04 at 13 39 05_144aec9a](https://github.com/user-attachments/assets/3a2f6952-b9a5-451a-8454-b72fc9eb7a93)
+![WhatsApp Image 2025-12-04 at 14 04 05_f6d8649e](https://github.com/user-attachments/assets/b31961d4-4f49-478c-b113-d177f9364a7e)
+![WhatsApp Image 2025-12-04 at 14 04 37_7f935069](https://github.com/user-attachments/assets/ac37ebd4-ccee-4a7a-a5e3-a2949c237030)
+
 
 
 
 
 
 ## OUTPUT
-<img width="766" height="720" alt="image" src="https://github.com/user-attachments/assets/15029296-7404-4913-b039-e0977291b630" />
+<img width="213" height="311" alt="image" src="https://github.com/user-attachments/assets/8cbcce3d-2afc-4fce-9105-05a2fa2d717c" />
+
 
 ## RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
