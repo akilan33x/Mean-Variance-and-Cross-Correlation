@@ -68,10 +68,9 @@ plot2d3('gnn',r);
 ```
 
 
-## CALCULATION
-![WhatsApp Image 2025-12-03 at 13 15 21_ba44a530](https://github.com/user-attachments/assets/c7427ca5-b8c5-4db7-a431-0de1ddb06292)
-![WhatsApp Image 2025-12-03 at 13 15 57_e9e37960](https://github.com/user-attachments/assets/91a3c6b9-e305-40d5-9dea-996ee049492a)
-![WhatsApp Image 2025-12-03 at 13 16 25_30d788c7](https://github.com/user-attachments/assets/03774271-8d1d-40dc-91e2-2e1f45cca4ac)
+## Tabulation
+![WhatsApp Image 2025-12-04 at 12 56 24_da19abb8](https://github.com/user-attachments/assets/46fd0496-778f-409c-bfa4-0069d2a1b298)
+
 
 
 
